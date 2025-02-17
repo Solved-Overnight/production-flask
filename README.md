@@ -42,8 +42,8 @@ The **Production Data Analyzer** is a web application designed to analyze produc
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/production-data-analyzer.git
-   cd production-data-analyzer
+   git clone https://github.com/Solved-Overnight/production-flask.git
+   cd production-flask
    ```
 
 2. **Set up a virtual environment (optional but recommended)**:
@@ -127,17 +127,11 @@ Percentage: 54.65%, 27.08%, 18.25%, 0.02%
 
 ## Screenshots
 
-### **Upload Section**
-- File upload section with drag-and-drop functionality.
+### **Flask Backend**
+![Production Totals](screenshots/production_totals.png)
 
-### **Production Totals**
-- Production totals for Lantabur and Taqwa industries.
-
-### **Lantabur Breakdown**
-- Lantabur production breakdown with interactive pie chart and table.
-
-### **Taqwa Breakdown**
-- Taqwa production breakdown with interactive pie chart and table.
+### **Streamlit Backend**
+![Production Totals](screenshots/production_totals2.png)
 
 ---
 
@@ -181,6 +175,6 @@ Contributions are welcome! Please follow these steps:
 For questions or feedback, please contact:
 
 - **Your Name**  
-- **Email**: your.email@example.com  
-- **GitHub**: [your-username](https://github.com/your-username)
+- **Email**: mzrishad.info@gmail.com  
+- **GitHub**: [Solved-Overnight](https://github.com/Solved-Overnight)
 
