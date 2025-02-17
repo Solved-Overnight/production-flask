@@ -158,8 +158,6 @@ Contributions are welcome! Please follow these steps:
    ```bash
    git push origin feature/YourFeature
    ```
-5. Open a pull request.
-
 ---
 
 ## Acknowledgments
