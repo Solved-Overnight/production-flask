@@ -174,7 +174,7 @@ Contributions are welcome! Please follow these steps:
 
 For questions or feedback, please contact:
 
-- **Your Name**  
+- **Moniruzzaman Rishad**  
 - **Email**: mzrishad.info@gmail.com  
 - **GitHub**: [Solved-Overnight](https://github.com/Solved-Overnight)
 
