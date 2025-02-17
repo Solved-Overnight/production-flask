@@ -54,7 +54,7 @@ The **Production Data Analyzer** is a web application designed to analyze produc
 
 3. **Install dependencies**:
    ```bash
-   pip install flask pdfplumber
+   pip install -r requirements.txt
    ```
 
 4. **Run the Flask application**:
